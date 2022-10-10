@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertAdekanye
-- 👀 I’m interested into Front-end development
+- 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Tailwind css & React
 - 💞️ I’m looking to collaborate on Opensource projects
 - 🤔 I’m looking for help with React 
