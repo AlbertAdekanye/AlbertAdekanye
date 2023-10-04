@@ -2,6 +2,7 @@
 <h3 align="center">frontend developer, Web Specialist, and Web Accessibility Specialist.</h3>
 
 (https://holopin.me/albertkanye)](https://holopin.io/@albertkanye)
+https://www.holopin.io/userbadge/cl8mvlqlw014609kw54nef0ce
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertadekanye" alt="albertadekanye" /></a> </p>
 
