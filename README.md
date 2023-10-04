@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Albert Adekanye</h1>
 <h3 align="center">frontend developer, Web Specialist, and Web Accessibility Specialist.</h3>
+class FrontEndDeveloper {
+    constructor() {
+        this.name = "Albert";
+        this.age = 21;
+        this.role = "Front-end developer";
+        this.language_spoken = ["en"];
+    }
 
+    sayHi() {
+        console.log("Thanks for stopping by. I hope you find some of my work interesting.");
+    }
+}
+
+const me = new FrontEndDeveloper();
+me.sayHi();
 (https://holopin.me/albertkanye)](https://holopin.io/@albertkanye)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertadekanye" alt="albertadekanye" /></a> </p>
