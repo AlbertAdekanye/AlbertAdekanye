@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Albert Adekanye</h1>
 <h3 align="center">frontend developer, Web Specialist, and Web Accessibility Specialist.</h3>
 
+[![An image of @albertkanye
+'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albertkanye)](https://holopin.io/@albertkanye)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertadekanye" alt="albertadekanye" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adekanye_albert" target="blank"><img src="https://img.shields.io/twitter/follow/adekanye_albert?logo=twitter&style=for-the-badge" alt="adekanye_albert" /></a> </p>
