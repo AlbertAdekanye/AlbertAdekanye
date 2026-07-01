@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Albert Adekanye</h1>
 <h3 align="center">Full-Stack JavaScript Developer | Frontend Engineer | Web Accessibility Advocate</h3>
 
